@@ -5,9 +5,19 @@
     <link>https://sarveshshejwadkar.github.io/</link>
     <description>Recent content on Minimo</description>
     <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 01 Aug 2020 19:20:05 +0530</lastBuildDate>
     
 	<atom:link href="https://sarveshshejwadkar.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://sarveshshejwadkar.github.io/posts/my-first-post/</link>
+      <pubDate>Sat, 01 Aug 2020 19:20:05 +0530</pubDate>
+      
+      <guid>https://sarveshshejwadkar.github.io/posts/my-first-post/</guid>
+      <description>new commit 2</description>
+    </item>
     
   </channel>
 </rss>
